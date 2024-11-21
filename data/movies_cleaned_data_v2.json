@@ -1,0 +1,1358 @@
+[
+  {
+    "name": "Jakub Pobłocki",
+    "movies": [
+      {
+        "title": "The Order",
+        "rating": 9.0
+      },
+      {
+        "title": "Chilling Adventures of Sabrina",
+        "rating": 8.0
+      },
+      {
+        "title": "Vikings",
+        "rating": 6.0
+      },
+      {
+        "title": "Fifty Shades of Grey",
+        "rating": 2.0
+      },
+      {
+        "title": "The Wild Robot",
+        "rating": 8.0
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "rating": 7.0
+      },
+      {
+        "title": "Annabelle",
+        "rating": 5.0
+      },
+      {
+        "title": "The Conjuring: The Devil Made Me Do It",
+        "rating": 3.0
+      },
+      {
+        "title": "Stranger Things",
+        "rating": 8.0
+      },
+      {
+        "title": "Aliens vs. Predator: Requiem",
+        "rating": 4.0
+      },
+      {
+        "title": "Kaleidoscope",
+        "rating": 7.0
+      },
+      {
+        "title": "Terrifier 3",
+        "rating": 9.0
+      },
+      {
+        "title": "Hellboy: The Crooked Man",
+        "rating": 4.0
+      },
+      {
+        "title": "Naruto",
+        "rating": 8.0
+      },
+      {
+        "title": "Bogdan Boner: Exorcist",
+        "rating": 7.0
+      },
+      {
+        "title": "Jaws",
+        "rating": 5.0
+      },
+      {
+        "title": "The Meg",
+        "rating": 6.0
+      },
+      {
+        "title": "Deadpool",
+        "rating": 9.0
+      },
+      {
+        "title": "Twister",
+        "rating": 6.0
+      },
+      {
+        "title": "Venom",
+        "rating": 7.0
+      },
+      {
+        "title": "Terrifier",
+        "rating": 6.0
+      },
+      {
+        "title": "Terrifier 2",
+        "rating": 5.0
+      },
+      {
+        "title": "Space Cowboys",
+        "rating": 7.0
+      },
+      {
+        "title": "Nobody Sleeps in the Woods Tonight",
+        "rating": 4.0
+      },
+      {
+        "title": "The Witcher",
+        "rating": 9.0
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "rating": 8.0
+      },
+      {
+        "title": "Family Guy",
+        "rating": 7.0
+      },
+      {
+        "title": "Spider-Man: Far From Home",
+        "rating": 7.0
+      },
+      {
+        "title": "9/11",
+        "rating": 4.0
+      },
+      {
+        "title": "Alien: Romulus",
+        "rating": 7.0
+      },
+      {
+        "title": "The 100",
+        "rating": 9.0
+      },
+      {
+        "title": "Squid Game",
+        "rating": 7.0
+      },
+      {
+        "title": "Nobody Sleeps in the Woods Tonight 2",
+        "rating": 3.0
+      },
+      {
+        "title": "She-Hulk: Attorney at Law",
+        "rating": 2.0
+      },
+      {
+        "title": "How to Sell Drugs Online (Fast)",
+        "rating": 8.0
+      },
+      {
+        "title": "Sex Education",
+        "rating": 9.0
+      },
+      {
+        "title": "Avatar: The Way of Water",
+        "rating": 8.0
+      },
+      {
+        "title": "Avengers: Endgame",
+        "rating": 7.0
+      },
+      {
+        "title": "Toy Story 4",
+        "rating": 6.0
+      },
+      {
+        "title": "Shadowhunters",
+        "rating": 8.0
+      },
+      {
+        "title": "Up",
+        "rating": 7.0
+      }
+    ]
+  },
+  {
+    "name": "Mateusz Wiśniewski",
+    "movies": [
+      {
+        "title": "The Autopsy of Jane Doe",
+        "rating": 7.0
+      },
+      {
+        "title": "Peaky Blinders",
+        "rating": 10.0
+      },
+      {
+        "title": "Game of Thrones",
+        "rating": 6.0
+      },
+      {
+        "title": "Dark",
+        "rating": 7.0
+      },
+      {
+        "title": "The Substance",
+        "rating": 2.0
+      },
+      {
+        "title": "The Batman (2022)",
+        "rating": 8.0
+      },
+      {
+        "title": "Rick and Morty",
+        "rating": 9.0
+      },
+      {
+        "title": "Breaking Bad",
+        "rating": 9.0
+      },
+      {
+        "title": "Stranger Things",
+        "rating": 3.0
+      },
+      {
+        "title": "The Walking Dead",
+        "rating": 3.0
+      },
+      {
+        "title": "The Queen's Gambit",
+        "rating": 8.0
+      },
+      {
+        "title": "Euphoria",
+        "rating": 7.0
+      },
+      {
+        "title": "Ozark",
+        "rating": 7.0
+      },
+      {
+        "title": "American Horror Story",
+        "rating": 3.0
+      },
+      {
+        "title": "Kapitan Bomba",
+        "rating": 10.0
+      },
+      {
+        "title": "Bogdan Boner: Exorcist",
+        "rating": 10.0
+      },
+      {
+        "title": "Brickleberry",
+        "rating": 8.0
+      },
+      {
+        "title": "Money Heist",
+        "rating": 5.0
+      },
+      {
+        "title": "Westworld",
+        "rating": 7.0
+      },
+      {
+        "title": "Vikings",
+        "rating": 5.0
+      },
+      {
+        "title": "The Matrix",
+        "rating": 9.0
+      },
+      {
+        "title": "13 Posterunek",
+        "rating": 8.0
+      },
+      {
+        "title": "Squid Game",
+        "rating": 9.0
+      },
+      {
+        "title": "13 Reasons Why",
+        "rating": 3.0
+      },
+      {
+        "title": "Blinded by the Lights",
+        "rating": 9.0
+      },
+      {
+        "title": "Arcane",
+        "rating": 8.0
+      },
+      {
+        "title": "Twilight",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "name": "Kacper Sewruk",
+    "movies": [
+      {
+        "title": "Cast Away",
+        "rating": 9.0
+      },
+      {
+        "title": "Elite",
+        "rating": 4.0
+      },
+      {
+        "title": "Prison Break",
+        "rating": 10.0
+      },
+      {
+        "title": "The Meg 2: The Trench",
+        "rating": 5.0
+      },
+      {
+        "title": "Kapitan Bomba",
+        "rating": 10.0
+      },
+      {
+        "title": "Outer Banks",
+        "rating": 5.0
+      },
+      {
+        "title": "Baywatch",
+        "rating": 2.0
+      },
+      {
+        "title": "Furioza",
+        "rating": 9.0
+      },
+      {
+        "title": "Back to the Future",
+        "rating": 8.0
+      },
+      {
+        "title": "Bad Boy",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "name": "Jakub Marcinkowski",
+    "movies": [
+      {
+        "title": "Harry Potter",
+        "rating": 9.0
+      },
+      {
+        "title": "The Beekeeper",
+        "rating": 4.0
+      },
+      {
+        "title": "Deadpool 3",
+        "rating": 8.0
+      },
+      {
+        "title": "Road House",
+        "rating": 9.0
+      },
+      {
+        "title": "The Lady",
+        "rating": 9.0
+      },
+      {
+        "title": "Godzilla x Kong: The New Empire",
+        "rating": 5.0
+      },
+      {
+        "title": "The Hobbit",
+        "rating": 10.0
+      },
+      {
+        "title": "Fallout",
+        "rating": 7.0
+      },
+      {
+        "title": "Star Wars",
+        "rating": 8.0
+      },
+      {
+        "title": "Aquaman",
+        "rating": 6.0
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "rating": 10.0
+      },
+      {
+        "title": "The Revenant",
+        "rating": 7.0
+      },
+      {
+        "title": "Django Unchained",
+        "rating": 8.0
+      },
+      {
+        "title": "The Conjuring",
+        "rating": 9.0
+      },
+      {
+        "title": "The Purge",
+        "rating": 7.0
+      },
+      {
+        "title": "Saw X",
+        "rating": 4.0
+      },
+      {
+        "title": "Winnie the Pooh: Blood and Honey",
+        "rating": 4.0
+      },
+      {
+        "title": "I Am Legend",
+        "rating": 10.0
+      },
+      {
+        "title": "M3GAN",
+        "rating": 6.0
+      },
+      {
+        "title": "The Matrix",
+        "rating": 9.0
+      },
+      {
+        "title": "Self/less",
+        "rating": 10.0
+      },
+      {
+        "title": "X-Men",
+        "rating": 8.0
+      },
+      {
+        "title": "Deadpool",
+        "rating": 7.0
+      },
+      {
+        "title": "Red Notice",
+        "rating": 7.0
+      },
+      {
+        "title": "The Hitman's Bodyguard",
+        "rating": 8.0
+      },
+      {
+        "title": "R.I.P.D.",
+        "rating": 7.0
+      },
+      {
+        "title": "Need for Speed",
+        "rating": 7.0
+      }
+    ]
+  },
+  {
+    "name": "Karol Szmajda",
+    "movies": [
+      {
+        "title": "Tenacious D in The Pick of Destiny",
+        "rating": 8.0
+      },
+      {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "rating": 9.0
+      },
+      {
+        "title": "Interstellar",
+        "rating": 8.0
+      },
+      {
+        "title": "Outlander",
+        "rating": 9.0
+      },
+      {
+        "title": "Breaking Bad",
+        "rating": 7.0
+      },
+      {
+        "title": "Botox",
+        "rating": 4.0
+      },
+      {
+        "title": "A Beautiful Mind",
+        "rating": 8.0
+      },
+      {
+        "title": "Rick and Morty",
+        "rating": 10.0
+      },
+      {
+        "title": "The Maze Runner",
+        "rating": 9.0
+      },
+      {
+        "title": "Letters to Santa",
+        "rating": 7.0
+      },
+      {
+        "title": "How High",
+        "rating": 8.0
+      },
+      {
+        "title": "The Hunger Games",
+        "rating": 8.0
+      },
+      {
+        "title": "Kapitan Bomba",
+        "rating": 9.0
+      },
+      {
+        "title": "Lucifer",
+        "rating": 3.0
+      },
+      {
+        "title": "Bogdan Boner: Exorcist",
+        "rating": 10.0
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "rating": 9.0
+      },
+      {
+        "title": "Avatar",
+        "rating": 6.0
+      },
+      {
+        "title": "Kitty Kicia",
+        "rating": 10.0
+      },
+      {
+        "title": "Mr. Robot",
+        "rating": 9.0
+      },
+      {
+        "title": "The Road to El Dorado",
+        "rating": 8.0
+      },
+      {
+        "title": "Shrek",
+        "rating": 10.0
+      },
+      {
+        "title": "The Lord of the Rings",
+        "rating": 5.0
+      },
+      {
+        "title": "Brickleberry",
+        "rating": 8.0
+      },
+      {
+        "title": "The Matrix",
+        "rating": 6.0
+      },
+      {
+        "title": "The Witcher",
+        "rating": 8.0
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "rating": 8.0
+      },
+      {
+        "title": "Catch Me If You Can",
+        "rating": 8.0
+      },
+      {
+        "title": "Fifty Shades of Grey",
+        "rating": 2.0
+      },
+      {
+        "title": "Maze Runner: The Scorch Trials",
+        "rating": 5.0
+      },
+      {
+        "title": "The Hangover",
+        "rating": 7.0
+      }
+    ]
+  },
+  {
+    "name": "Kacper Pecka",
+    "movies": [
+      {
+        "title": "Avatar: The Last Airbender",
+        "rating": 10.0
+      },
+      {
+        "title": "The Witcher: Blood Origin",
+        "rating": 2.0
+      },
+      {
+        "title": "She-Hulk: Attorney at Law",
+        "rating": 1.0
+      },
+      {
+        "title": "Rick and Morty",
+        "rating": 8.0
+      },
+      {
+        "title": "Black Mirror",
+        "rating": 9.0
+      },
+      {
+        "title": "Arcane",
+        "rating": 10.0
+      },
+      {
+        "title": "Lucy",
+        "rating": 9.0
+      },
+      {
+        "title": "In Time",
+        "rating": 9.0
+      },
+      {
+        "title": "Who Am I",
+        "rating": 8.0
+      },
+      {
+        "title": "The Lighthouse",
+        "rating": 3.0
+      },
+      {
+        "title": "The Imitation Game",
+        "rating": 8.0
+      },
+      {
+        "title": "Polaroid",
+        "rating": 2.0
+      },
+      {
+        "title": "The Silence",
+        "rating": 4.0
+      },
+      {
+        "title": "The Forest",
+        "rating": 5.0
+      },
+      {
+        "title": "A Cure for Wellness",
+        "rating": 3.0
+      },
+      {
+        "title": "Home Alone",
+        "rating": 3.0
+      },
+      {
+        "title": "Source Code",
+        "rating": 8.0
+      },
+      {
+        "title": "About Time",
+        "rating": 8.0
+      },
+      {
+        "title": "Catch Me If You Can",
+        "rating": 7.0
+      },
+      {
+        "title": "Avatar",
+        "rating": 5.0
+      },
+      {
+        "title": "Kung Fu Panda",
+        "rating": 9.0
+      },
+      {
+        "title": "Shrek",
+        "rating": 9.0
+      },
+      {
+        "title": "Deadpool",
+        "rating": 9.0
+      },
+      {
+        "title": "Eternals",
+        "rating": 3.0
+      },
+      {
+        "title": "The Witcher: Nightmare of the Wolf",
+        "rating": 9.0
+      },
+      {
+        "title": "Birds of Prey",
+        "rating": 2.0
+      },
+      {
+        "title": "Shōgun",
+        "rating": 9.0
+      },
+      {
+        "title": "The Illusionist",
+        "rating": 7.0
+      },
+      {
+        "title": "Mr. Robot",
+        "rating": 8.0
+      },
+      {
+        "title": "Inception",
+        "rating": 9.0
+      },
+      {
+        "title": "Shutter Island",
+        "rating": 9.0
+      },
+      {
+        "title": "Limitless",
+        "rating": 8.0
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "rating": 9.0
+      },
+      {
+        "title": "I, Robot",
+        "rating": 9.0
+      },
+      {
+        "title": "Sherlock",
+        "rating": 10.0
+      },
+      {
+        "title": "Loki",
+        "rating": 10.0
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "rating": 8.0
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "rating": 9.0
+      },
+      {
+        "title": "Don't Look Up",
+        "rating": 9.0
+      },
+      {
+        "title": "Knives Out",
+        "rating": 9.5
+      },
+      {
+        "title": "Predestination",
+        "rating": 9.5
+      }
+    ]
+  },
+  {
+    "name": "Andrzej Ebertowski",
+    "movies": [
+      {
+        "title": "Game of Thrones",
+        "rating": 8.0
+      },
+      {
+        "title": "Peaky Blinders",
+        "rating": 9.5
+      },
+      {
+        "title": "1670",
+        "rating": 9.0
+      },
+      {
+        "title": "Vikings",
+        "rating": 7.0
+      },
+      {
+        "title": "Arcane",
+        "rating": 9.0
+      },
+      {
+        "title": "Chernobyl",
+        "rating": 8.5
+      },
+      {
+        "title": "Breaking Bad",
+        "rating": 9.5
+      },
+      {
+        "title": "Rick and Morty",
+        "rating": 9.5
+      },
+      {
+        "title": "Sherlock",
+        "rating": 7.0
+      },
+      {
+        "title": "Narcos",
+        "rating": 8.5
+      },
+      {
+        "title": "The Last Dance",
+        "rating": 9.0
+      },
+      {
+        "title": "Black Mirror",
+        "rating": 8.0
+      },
+      {
+        "title": "Stranger Things",
+        "rating": 6.0
+      },
+      {
+        "title": "Succession",
+        "rating": 9.9
+      },
+      {
+        "title": "Dark",
+        "rating": 7.5
+      },
+      {
+        "title": "The Boys",
+        "rating": 7.0
+      },
+      {
+        "title": "The Queen's Gambit",
+        "rating": 8.0
+      },
+      {
+        "title": "Severance",
+        "rating": 9.0
+      },
+      {
+        "title": "Money Heist",
+        "rating": 5.5
+      },
+      {
+        "title": "The Mandalorian",
+        "rating": 8.0
+      },
+      {
+        "title": "Yellowstone",
+        "rating": 8.0
+      },
+      {
+        "title": "Lucifer",
+        "rating": 2.0
+      },
+      {
+        "title": "Westworld",
+        "rating": 7.5
+      },
+      {
+        "title": "Blue-Eyed Samurai",
+        "rating": 8.0
+      },
+      {
+        "title": "The Last of Us",
+        "rating": 8.0
+      },
+      {
+        "title": "Fallout",
+        "rating": 7.5
+      },
+      {
+        "title": "Brickleberry",
+        "rating": 8.5
+      },
+      {
+        "title": "Shōgun",
+        "rating": 8.0
+      },
+      {
+        "title": "Star Wars: Andor",
+        "rating": 5.5
+      },
+      {
+        "title": "Barefoot Around the World",
+        "rating": 6.0
+      },
+      {
+        "title": "The Penguin",
+        "rating": 7.5
+      },
+      {
+        "title": "Black Bird",
+        "rating": 8.0
+      },
+      {
+        "title": "House of the Dragon",
+        "rating": 8.5
+      },
+      {
+        "title": "The 100",
+        "rating": 5.0
+      },
+      {
+        "title": "Silo",
+        "rating": 6.0
+      },
+      {
+        "title": "From",
+        "rating": 7.5
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "rating": 8.0
+      },
+      {
+        "title": "The Green Mile",
+        "rating": 8.0
+      },
+      {
+        "title": "The Godfather",
+        "rating": 9.5
+      },
+      {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "rating": 8.0
+      },
+      {
+        "title": "The Lord of the Rings: The Return of the King",
+        "rating": 10.0
+      }
+    ]
+  },
+  {
+    "name": "Michał Jastrzemski",
+    "movies": [
+      {
+        "title": "Breaking Bad",
+        "rating": 10.0
+      },
+      {
+        "title": "Howl's Moving Castle",
+        "rating": 8.0
+      },
+      {
+        "title": "The Mask",
+        "rating": 7.0
+      },
+      {
+        "title": "WALL-E",
+        "rating": 9.0
+      },
+      {
+        "title": "Soul",
+        "rating": 9.0
+      },
+      {
+        "title": "Isle of Dogs",
+        "rating": 8.0
+      },
+      {
+        "title": "Spirited Away",
+        "rating": 9.0
+      },
+      {
+        "title": "Full Metal Jacket",
+        "rating": 9.0
+      },
+      {
+        "title": "Smolensk",
+        "rating": 1.0
+      },
+      {
+        "title": "Deception",
+        "rating": 2.0
+      },
+      {
+        "title": "The Shining",
+        "rating": 8.0
+      },
+      {
+        "title": "A Clockwork Orange",
+        "rating": 9.0
+      },
+      {
+        "title": "The Butterfly Effect",
+        "rating": 7.0
+      },
+      {
+        "title": "Close Encounters of the Third Kind",
+        "rating": 7.0
+      },
+      {
+        "title": "Paterson",
+        "rating": 10.0
+      },
+      {
+        "title": "Side Effects",
+        "rating": 4.0
+      },
+      {
+        "title": "Melancholia",
+        "rating": 7.0
+      },
+      {
+        "title": "The Matrix",
+        "rating": 9.0
+      },
+      {
+        "title": "Wild",
+        "rating": 8.0
+      },
+      {
+        "title": "Anon",
+        "rating": 7.0
+      },
+      {
+        "title": "Birdman",
+        "rating": 10.0
+      },
+      {
+        "title": "Get Out",
+        "rating": 7.0
+      },
+      {
+        "title": "The Last Family",
+        "rating": 8.0
+      },
+      {
+        "title": "Sunset",
+        "rating": 9.0
+      },
+      {
+        "title": "The Lobster",
+        "rating": 8.0
+      },
+      {
+        "title": "The Game",
+        "rating": 8.0
+      },
+      {
+        "title": "The Grand Budapest Hotel",
+        "rating": 9.0
+      },
+      {
+        "title": "The Babysitter",
+        "rating": 3.0
+      },
+      {
+        "title": "Eyes Wide Shut",
+        "rating": 9.0
+      },
+      {
+        "title": "Boyhood",
+        "rating": 9.0
+      },
+      {
+        "title": "Gods",
+        "rating": 8.0
+      },
+      {
+        "title": "Inglourious Basterds",
+        "rating": 8.0
+      },
+      {
+        "title": "The Green Mile",
+        "rating": 10.0
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "rating": 10.0
+      },
+      {
+        "title": "Forrest Gump",
+        "rating": 9.0
+      },
+      {
+        "title": "Saving Private Ryan",
+        "rating": 8.0
+      },
+      {
+        "title": "The Godfather",
+        "rating": 9.0
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "rating": 8.0
+      },
+      {
+        "title": "Mr. Robot",
+        "rating": 10.0
+      },
+      {
+        "title": "Narcos",
+        "rating": 9.0
+      },
+      {
+        "title": "Squid Game",
+        "rating": 7.0
+      }
+    ]
+  },
+  {
+    "name": "Dawid Janas",
+    "movies": [
+      {
+        "title": "Vikings",
+        "rating": 10.0
+      },
+      {
+        "title": "Sons of Anarchy",
+        "rating": 10.0
+      },
+      {
+        "title": "Peaky Blinders",
+        "rating": 8.0
+      },
+      {
+        "title": "Game of Thrones",
+        "rating": 9.0
+      },
+      {
+        "title": "Ozark",
+        "rating": 5.0
+      },
+      {
+        "title": "Breaking Bad",
+        "rating": 8.0
+      },
+      {
+        "title": "The 100",
+        "rating": 9.0
+      },
+      {
+        "title": "Stranger Things",
+        "rating": 7.0
+      },
+      {
+        "title": "Westworld",
+        "rating": 10.0
+      },
+      {
+        "title": "Lucifer",
+        "rating": 6.0
+      },
+      {
+        "title": "Dexter",
+        "rating": 9.0
+      },
+      {
+        "title": "Money Heist",
+        "rating": 7.0
+      },
+      {
+        "title": "You",
+        "rating": 8.0
+      },
+      {
+        "title": "The Witcher",
+        "rating": 9.0
+      },
+      {
+        "title": "Dark",
+        "rating": 4.0
+      },
+      {
+        "title": "Prison Break",
+        "rating": 9.0
+      },
+      {
+        "title": "Rick and Morty",
+        "rating": 10.0
+      },
+      {
+        "title": "The Queen's Gambit",
+        "rating": 2.0
+      },
+      {
+        "title": "Jessica Jones",
+        "rating": 8.0
+      },
+      {
+        "title": "Daredevil",
+        "rating": 8.0
+      }
+    ]
+  },
+  {
+    "name": "Michał Flisikowski",
+    "movies": [
+      {
+        "title": "Gladiator",
+        "rating": 8.0
+      },
+      {
+        "title": "Green Book",
+        "rating": 8.0
+      },
+      {
+        "title": "The Substance",
+        "rating": 7.0
+      },
+      {
+        "title": "Dune: Part Two",
+        "rating": 10.0
+      },
+      {
+        "title": "Criminal Life: 1984-2020",
+        "rating": 10.0
+      },
+      {
+        "title": "A Christmas Carol",
+        "rating": 9.0
+      },
+      {
+        "title": "God's Crooked Lines",
+        "rating": 6.0
+      },
+      {
+        "title": "Nobody Sleeps in the Woods Tonight",
+        "rating": 2.0
+      },
+      {
+        "title": "The Office",
+        "rating": 10.0
+      },
+      {
+        "title": "1670",
+        "rating": 9.0
+      },
+      {
+        "title": "The Last of Us",
+        "rating": 7.0
+      },
+      {
+        "title": "Trailer Park Boys",
+        "rating": 10.0
+      },
+      {
+        "title": "Killers of the Flower Moon",
+        "rating": 7.0
+      },
+      {
+        "title": "Severance",
+        "rating": 9.0
+      }
+    ]
+  },
+  {
+    "name": "Dawid Nowakowski",
+    "movies": [
+      {
+        "title": "Sin City",
+        "rating": 10.0
+      },
+      {
+        "title": "The Matrix",
+        "rating": 10.0
+      },
+      {
+        "title": "Se7en",
+        "rating": 10.0
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": 10.0
+      },
+      {
+        "title": "Shutter Island",
+        "rating": 10.0
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "rating": 10.0
+      },
+      {
+        "title": "The Dark Knight",
+        "rating": 10.0
+      },
+      {
+        "title": "The Crow",
+        "rating": 10.0
+      },
+      {
+        "title": "Minute of Silence",
+        "rating": 9.0
+      },
+      {
+        "title": "Mały Zgon",
+        "rating": 8.0
+      },
+      {
+        "title": "Traffic Department",
+        "rating": 9.0
+      },
+      {
+        "title": "The Mire",
+        "rating": 9.0
+      },
+      {
+        "title": "1670",
+        "rating": 10.0
+      },
+      {
+        "title": "The Penguin",
+        "rating": 10.0
+      },
+      {
+        "title": "Breaking Bad",
+        "rating": 10.0
+      },
+      {
+        "title": "Dexter",
+        "rating": 10.0
+      },
+      {
+        "title": "The Conjuring",
+        "rating": 9.0
+      },
+      {
+        "title": "Sarnie Żniwo - Klątwa statutkowego szlaku",
+        "rating": 10.0
+      },
+      {
+        "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "rating": 9.0
+      },
+      {
+        "title": "Trailer Park Boys",
+        "rating": 10.0
+      },
+      {
+        "title": "Donnie Brasco",
+        "rating": 9.0
+      }
+    ]
+  },
+  {
+    "name": "Michał Krokoszyński",
+    "movies": [
+      {
+        "title": "Cars",
+        "rating": 10.0
+      },
+      {
+        "title": "Cars 2",
+        "rating": 6.0
+      },
+      {
+        "title": "Cars 3",
+        "rating": 8.0
+      },
+      {
+        "title": "Futro z misia",
+        "rating": 3.0
+      },
+      {
+        "title": "Letters to Santa",
+        "rating": 7.0
+      },
+      {
+        "title": "Breaking Bad",
+        "rating": 10.0
+      },
+      {
+        "title": "Fast & Furious",
+        "rating": 10.0
+      },
+      {
+        "title": "Fast X",
+        "rating": 6.0
+      },
+      {
+        "title": "Shrek",
+        "rating": 10.0
+      },
+      {
+        "title": "Ranczo",
+        "rating": 10.0
+      },
+      {
+        "title": "Penguins of Madagascar",
+        "rating": 9.0
+      }
+    ]
+  }
+]
