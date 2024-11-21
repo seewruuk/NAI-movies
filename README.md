@@ -3,7 +3,9 @@
 Program to system rekomendacji filmów, który generuje unikalne rekomendacje i antyrekomendacje dla wybranego użytkownika, skupiając się wyłącznie na jego ocenach i preferencjach. Wykorzystuje filtrację opartą na treści (ang. content-based filtering) oraz sztuczną inteligencję do analizy cech filmów i preferencji użytkownika.
 
 ## Autorzy
+
 Kacper Sewruk s23466
+
 Michał Jastrzemski s26245
 
 ## Funkcjonalności
