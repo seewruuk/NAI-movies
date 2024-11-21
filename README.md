@@ -34,14 +34,14 @@ Program korzysta z API OMDb do pobierania informacji o filmach.
 
 ## Dodatkowe informacje
 
-Plik **movie_features.json**:
+- Plik **movie_features.json**:
 
 - Jest to plik cache przechowujący dane o filmach pobrane z API OMDb.
 - Jeśli plik nie istnieje, program automatycznie pobierze dane i utworzy ten plik.
 - Plik znajduje się w katalogu data/.
 - Aby zaktualizować dane o filmach, usuń ten plik przed uruchomieniem programu.
 
-Plik **movies_cleaned_data_v2**:
+- Plik **movies_cleaned_data_v2**:
 Plik movies_cleaned_data_v2.json zawiera dane użytkowników oraz ich oceny filmów. Jest kluczowym elementem programu, ponieważ dostarcza informacji o preferencjach użytkowników, na podstawie których generowane są rekomendacje i antyrekomendacje.
 
 ![image](https://github.com/user-attachments/assets/c0912549-3d7b-47a8-8ae8-9b371d3db538)
