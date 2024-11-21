@@ -42,6 +42,7 @@ Program korzysta z API OMDb do pobierania informacji o filmach.
 - Aby zaktualizować dane o filmach, usuń ten plik przed uruchomieniem programu.
 
 **Plik **movies_cleaned_data_v2**:**
+
 Plik movies_cleaned_data_v2.json zawiera dane użytkowników oraz ich oceny filmów. Jest kluczowym elementem programu, ponieważ dostarcza informacji o preferencjach użytkowników, na podstawie których generowane są rekomendacje i antyrekomendacje.
 
 ![image](https://github.com/user-attachments/assets/c0912549-3d7b-47a8-8ae8-9b371d3db538)
